@@ -1,7 +1,7 @@
 // FUNCION PARA CALCULAR EDAD
 function calcularEdad() {
     // OBTENER LA FECHA INGRESADA DESDE EL INPUT
-    const input = document.getElementById("").value;
+    const input = document.getElementById("fechaNacimiento").value;
     const resultado = document.getElementById("resultado");
 
     // VALIDAR SI SE INGRESO FECHA O NO
