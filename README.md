@@ -67,6 +67,7 @@ $ cd repoMiniCalculadora
 
 ## VISUALIZACIÓN FINAL DEL PROYECTO:
 
+![Image](https://github.com/user-attachments/assets/e2380b40-3be5-4b95-b1f5-d9deadbbefce)
 
 
 ## ESTRUCTURA DE TRELLO 
