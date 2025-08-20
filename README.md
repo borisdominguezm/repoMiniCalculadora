@@ -69,6 +69,8 @@ $ cd repoMiniCalculadora
 
 ![Image](https://github.com/user-attachments/assets/e2380b40-3be5-4b95-b1f5-d9deadbbefce)
 
+![Image](https://github.com/user-attachments/assets/b40111f1-d7ec-403a-9689-939b3e1bb637)
+
 
 ## ESTRUCTURA DE TRELLO 
 Trello para organizar el flujo de trabajo de acuerdo con la metodología Scrum. El tablero incluye columnas como "Product Backlog", "Sprint Planning", "Sprint Goal", "to do", "in Progress" y "code Review".
